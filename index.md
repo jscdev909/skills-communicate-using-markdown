@@ -10,3 +10,7 @@
 ``` python
 print("Hello, world!")
 ```
+
+- [ ] Complete markdown course
+- [ ] Re-learn how to use git locally
+- [ ] Update my resume
